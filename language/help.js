@@ -4,7 +4,7 @@ Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 
   *INFO BOT*
-  👑 Creator : *Lexxy Official*
+  👑 Creator : *Kelvin Ganteng*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -968,7 +968,7 @@ exports.thanksto = () => {
   *≻* DikaArdnt
   *≻* ZeeoneOfc
   *≻* FatihArridho
-  *≻* Yoga
+  *≻* Kelvin
   *≻* Lexxy Official
   *≻* Riy Botz
   *≻* Deff
