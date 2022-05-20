@@ -3128,7 +3128,7 @@ break
 case 'owner': case 'creator': {
 kagura.sendContact(m.chat, global.owner, m)
 const templateMessage = {
-text: 'Tuh Kak Owner Ku',footer: `© ${ownername}`,
+text: 'Tuh Kak Owner Ku,Jomblo Dia',footer: `© ${ownername}`,
 templateButtons: [
 {
 index: 1, 
